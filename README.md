@@ -12,8 +12,4 @@ In this project you will be able to play the puzzles present in the game.
 <img src="Assets/Repository_Images/ScreenShots/screenshot_2.png" height="185" width="325">
 </div>
 
-# How to play
-You can play the WebGL version at my [itch.io page](https://guilmegouveia.itch.io/goof-troop-unity)
-<br>
-Have fun !
 
